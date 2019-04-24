@@ -1,0 +1,1617 @@
+[
+  {
+    "code": 1110,
+    "title": "Törvényhozó, miniszter, államtitkár",
+    "label": "1110 Törvényhozó, miniszter, államtitkár"
+  },
+  {
+    "code": 1121,
+    "title": "Országos és területi közigazgatás, igazságszolgáltatás vezetője",
+    "label": "1121 Országos és területi közigazgatás, igazságszolgáltatás vezetője"
+  },
+  {
+    "code": 1122,
+    "title": "Helyi önkormányzat választott vezetője",
+    "label": "1122 Helyi önkormányzat választott vezetője"
+  },
+  {
+    "code": 1123,
+    "title": "Helyi önkormányzat kinevezett vezetője",
+    "label": "1123 Helyi önkormányzat kinevezett vezetője"
+  },
+  {
+    "code": 1131,
+    "title": "Társadalmi (érdek-képviseleti) és egyéb szervezet vezetője",
+    "label": "1131 Társadalmi (érdek-képviseleti) és egyéb szervezet vezetője"
+  },
+  {
+    "code": 1132,
+    "title": "Egyházi vezető",
+    "label": "1132 Egyházi vezető"
+  },
+  {
+    "code": 1210,
+    "title": "Gazdasági, költségvetési szervezet vezetője (igazgató, elnök, ügyvezető",
+    "label": "1210 Gazdasági, költségvetési szervezet vezetője (igazgató, elnök, ügyvezető"
+  },
+  {
+    "code": 1311,
+    "title": "Mezőgazdasági, erdészeti, halászati és vadászati tevékenységet folytató",
+    "label": "1311 Mezőgazdasági, erdészeti, halászati és vadászati tevékenységet folytató"
+  },
+  {
+    "code": 1312,
+    "title": "Ipari tevékenységet folytató egység vezetője",
+    "label": "1312 Ipari tevékenységet folytató egység vezetője"
+  },
+  {
+    "code": 1313,
+    "title": "Építőipari tevékenységet folytató egység vezetője",
+    "label": "1313 Építőipari tevékenységet folytató egység vezetője"
+  },
+  {
+    "code": 1321,
+    "title": "Szállítási, logisztikai és raktározási tevékenységet folytató egység vezetője",
+    "label": "1321 Szállítási, logisztikai és raktározási tevékenységet folytató egység vezetője"
+  },
+  {
+    "code": 1322,
+    "title": "informatikai és telekommunikációs tevékenységet folytató egység vezetője",
+    "label": "1322 informatikai és telekommunikációs tevékenységet folytató egység vezetője"
+  },
+  {
+    "code": 1323,
+    "title": "Pénzintézeti tevékenységet folytató egység vezetője",
+    "label": "1323 Pénzintézeti tevékenységet folytató egység vezetője"
+  },
+  {
+    "code": 1324,
+    "title": "Szociális tevékenységet folytató egység vezetője",
+    "label": "1324 Szociális tevékenységet folytató egység vezetője"
+  },
+  {
+    "code": 1325,
+    "title": "Gyermekgondozási tevékenységet folytató egység vezetője",
+    "label": "1325 Gyermekgondozási tevékenységet folytató egység vezetője"
+  },
+  {
+    "code": 1326,
+    "title": "Idősgondozási tevékenységet folytató egység vezetője",
+    "label": "1326 Idősgondozási tevékenységet folytató egység vezetője"
+  },
+  {
+    "code": 1327,
+    "title": "Egészségügyi tevékenységet folytató egység vezetője",
+    "label": "1327 Egészségügyi tevékenységet folytató egység vezetője"
+  },
+  {
+    "code": 1328,
+    "title": "Oktatási-nevelési tevékenységet folytató egység vezetője",
+    "label": "1328 Oktatási-nevelési tevékenységet folytató egység vezetője"
+  },
+  {
+    "code": 1329,
+    "title": "Egyéb szolgáltatást nyújtó egység vezetője",
+    "label": "1329 Egyéb szolgáltatást nyújtó egység vezetője"
+  },
+  {
+    "code": 1331,
+    "title": "Szálláshely-szolgáltatási tevékenységet folytató egység vezetője",
+    "label": "1331 Szálláshely-szolgáltatási tevékenységet folytató egység vezetője"
+  },
+  {
+    "code": 1332,
+    "title": "Vendéglátó tevékenységet folytató egység vezetője",
+    "label": "1332 Vendéglátó tevékenységet folytató egység vezetője"
+  },
+  {
+    "code": 1333,
+    "title": "Kereskedelmi tevékenységet folytató egység vezetője",
+    "label": "1333 Kereskedelmi tevékenységet folytató egység vezetője"
+  },
+  {
+    "code": 1334,
+    "title": "Üzleti szolgáltatási tevékenységet folytató egység vezetője",
+    "label": "1334 Üzleti szolgáltatási tevékenységet folytató egység vezetője"
+  },
+  {
+    "code": 1335,
+    "title": "Kulturális tevékenységet folytató egység vezetője",
+    "label": "1335 Kulturális tevékenységet folytató egység vezetője"
+  },
+  {
+    "code": 1336,
+    "title": "Sport- és rekreációs tevékenységet folytató egység vezetője",
+    "label": "1336 Sport- és rekreációs tevékenységet folytató egység vezetője"
+  },
+  {
+    "code": 1339,
+    "title": "Egyéb kereskedelmi, vendéglátó és hasonló szolgáltatási tevékenységet",
+    "label": "1339 Egyéb kereskedelmi, vendéglátó és hasonló szolgáltatási tevékenységet"
+  },
+  {
+    "code": 1411,
+    "title": "Számviteli és pénzügyi tevékenységet folytató egység vezetője",
+    "label": "1411 Számviteli és pénzügyi tevékenységet folytató egység vezetője"
+  },
+  {
+    "code": 1412,
+    "title": "Személyzeti vezető, humánpolitikai egység vezetője",
+    "label": "1412 Személyzeti vezető, humánpolitikai egység vezetője"
+  },
+  {
+    "code": 1413,
+    "title": "Kutatási és fejlesztési tevékenységet folytató egység vezetője",
+    "label": "1413 Kutatási és fejlesztési tevékenységet folytató egység vezetője"
+  },
+  {
+    "code": 1414,
+    "title": "Vállalati stratégiatervezési egység vezetője",
+    "label": "1414 Vállalati stratégiatervezési egység vezetője"
+  },
+  {
+    "code": 1415,
+    "title": "Értékesítési és marketingtevékenységet folytató egység vezetője",
+    "label": "1415 Értékesítési és marketingtevékenységet folytató egység vezetője"
+  },
+  {
+    "code": 1416,
+    "title": "Reklám-, PR- és egyéb kommunikációs tevékenységet folytató egység",
+    "label": "1416 Reklám-, PR- és egyéb kommunikációs tevékenységet folytató egység"
+  },
+  {
+    "code": 1419,
+    "title": "Egyéb gazdasági tevékenységet segítő egység vezetőj e",
+    "label": "1419 Egyéb gazdasági tevékenységet segítő egység vezetőj e"
+  },
+  {
+    "code": 2111,
+    "title": "Bányamérnök",
+    "label": "2111 Bányamérnök"
+  },
+  {
+    "code": 2112,
+    "title": "Kohó- és anyagmémök",
+    "label": "2112 Kohó- és anyagmémök"
+  },
+  {
+    "code": 2113,
+    "title": "Élelmiszer-ipari mérnök",
+    "label": "2113 Élelmiszer-ipari mérnök"
+  },
+  {
+    "code": 2114,
+    "title": "Fa- és könnyűipari mérnök",
+    "label": "2114 Fa- és könnyűipari mérnök"
+  },
+  {
+    "code": 2115,
+    "title": "Építészmérnök",
+    "label": "2115 Építészmérnök"
+  },
+  {
+    "code": 2116,
+    "title": "Építőmérnök",
+    "label": "2116 Építőmérnök"
+  },
+  {
+    "code": 2117,
+    "title": "Vegyészmérnök",
+    "label": "2117 Vegyészmérnök"
+  },
+  {
+    "code": 2118,
+    "title": "Gépészmérnök",
+    "label": "2118 Gépészmérnök"
+  },
+  {
+    "code": 2121,
+    "title": "Villamosmérnök (energetikai mérnök)",
+    "label": "2121 Villamosmérnök (energetikai mérnök)"
+  },
+  {
+    "code": 2122,
+    "title": "Villamosmérnök (elektronikai mérnök)",
+    "label": "2122 Villamosmérnök (elektronikai mérnök)"
+  },
+  {
+    "code": 2123,
+    "title": "Telekommunikációs mérnök",
+    "label": "2123 Telekommunikációs mérnök"
+  },
+  {
+    "code": 2131,
+    "title": "Mezőgazdasági mérnök",
+    "label": "2131 Mezőgazdasági mérnök"
+  },
+  {
+    "code": 2132,
+    "title": "Erdő- és természetvédelmi mérnök",
+    "label": "2132 Erdő- és természetvédelmi mérnök"
+  },
+  {
+    "code": 2133,
+    "title": "Táj- és kertépítészmémök",
+    "label": "2133 Táj- és kertépítészmémök"
+  },
+  {
+    "code": 2134,
+    "title": "Település- és közlekedéstervező mérnök",
+    "label": "2134 Település- és közlekedéstervező mérnök"
+  },
+  {
+    "code": 2135,
+    "title": "Földmérő és térinformatikus",
+    "label": "2135 Földmérő és térinformatikus"
+  },
+  {
+    "code": 2136,
+    "title": "Grafikus és multimédia-tervező",
+    "label": "2136 Grafikus és multimédia-tervező"
+  },
+  {
+    "code": 2137,
+    "title": "Minőségbiztosítási mérnök",
+    "label": "2137 Minőségbiztosítási mérnök"
+  },
+  {
+    "code": 2139,
+    "title": "Egyéb, máshova nem sorolható mérnök",
+    "label": "2139 Egyéb, máshova nem sorolható mérnök"
+  },
+  {
+    "code": 2141,
+    "title": "Rendszerelemző (informatikai)",
+    "label": "2141 Rendszerelemző (informatikai)"
+  },
+  {
+    "code": 2142,
+    "title": "Szoftverfejlesztő",
+    "label": "2142 Szoftverfejlesztő"
+  },
+  {
+    "code": 2143,
+    "title": "Hálózat- és multimédia-fej lesztő",
+    "label": "2143 Hálózat- és multimédia-fej lesztő"
+  },
+  {
+    "code": 2144,
+    "title": "Alkalmazásprogramozó",
+    "label": "2144 Alkalmazásprogramozó"
+  },
+  {
+    "code": 2149,
+    "title": "Egyéb szoftver- és alkalmazásfejlesztő, -elemző",
+    "label": "2149 Egyéb szoftver- és alkalmazásfejlesztő, -elemző"
+  },
+  {
+    "code": 2311,
+    "title": "Szociálpolitikus",
+    "label": "2311 Szociálpolitikus"
+  },
+  {
+    "code": 2312,
+    "title": "Szociális munkás és tanácsadó",
+    "label": "2312 Szociális munkás és tanácsadó"
+  },
+  {
+    "code": 2615,
+    "title": "Ügyvéd",
+    "label": "2615 Ügyvéd"
+  },
+  {
+    "code": 2619,
+    "title": "Egyéb j ogi foglalkozású",
+    "label": "2619 Egyéb j ogi foglalkozású"
+  },
+  {
+    "code": 2621,
+    "title": "Filozófus, politológus",
+    "label": "2621 Filozófus, politológus"
+  },
+  {
+    "code": 2622,
+    "title": "Történész, régész",
+    "label": "2622 Történész, régész"
+  },
+  {
+    "code": 2623,
+    "title": "Néprajzkutató",
+    "label": "2623 Néprajzkutató"
+  },
+  {
+    "code": 2624,
+    "title": "Elemző közgazdász",
+    "label": "2624 Elemző közgazdász"
+  },
+  {
+    "code": 2625,
+    "title": "Statisztikus",
+    "label": "2625 Statisztikus"
+  },
+  {
+    "code": 2626,
+    "title": "Szociológus, demográfus",
+    "label": "2626 Szociológus, demográfus"
+  },
+  {
+    "code": 2627,
+    "title": "Nyelvész, fordító, tolmács",
+    "label": "2627 Nyelvész, fordító, tolmács"
+  },
+  {
+    "code": 2628,
+    "title": "Pszichológus",
+    "label": "2628 Pszichológus"
+  },
+  {
+    "code": 2629,
+    "title": "Egyéb társadalomtudományi foglalkozású",
+    "label": "2629 Egyéb társadalomtudományi foglalkozású"
+  },
+  {
+    "code": 2711,
+    "title": "Könyvtáros, informatikus könyvtáros",
+    "label": "2711 Könyvtáros, informatikus könyvtáros"
+  },
+  {
+    "code": 2712,
+    "title": "Levéltáros",
+    "label": "2712 Levéltáros"
+  },
+  {
+    "code": 2713,
+    "title": "Muzeológus, múzeumi gyűjteménygondnok",
+    "label": "2713 Muzeológus, múzeumi gyűjteménygondnok"
+  },
+  {
+    "code": 2714,
+    "title": "Kulturális szervező",
+    "label": "2714 Kulturális szervező"
+  },
+  {
+    "code": 2715,
+    "title": "Könyv-és lapkiadó szerkesztője",
+    "label": "2715 Könyv-és lapkiadó szerkesztője"
+  },
+  {
+    "code": 2716,
+    "title": "Új ságíró, rádióműsor-, televízióműsor-szerkesztő",
+    "label": "2716 Új ságíró, rádióműsor-, televízióműsor-szerkesztő"
+  },
+  {
+    "code": 2717,
+    "title": "Szakképzett edző, sportszervező, -irányító",
+    "label": "2717 Szakképzett edző, sportszervező, -irányító"
+  },
+  {
+    "code": 2719,
+    "title": "Egyéb kulturális és sportfoglalkozású (felsőfokú képzettséghez",
+    "label": "2719 Egyéb kulturális és sportfoglalkozású (felsőfokú képzettséghez"
+  },
+  {
+    "code": 2721,
+    "title": "író (újságíró nélkül)",
+    "label": "2721 író (újságíró nélkül)"
+  },
+  {
+    "code": 2722,
+    "title": "Képzőművész",
+    "label": "2722 Képzőművész"
+  },
+  {
+    "code": 2723,
+    "title": "Iparművész, gyártmány- és ruhatervező",
+    "label": "2723 Iparművész, gyártmány- és ruhatervező"
+  },
+  {
+    "code": 2724,
+    "title": "Zeneszerző, zenész, énekes",
+    "label": "2724 Zeneszerző, zenész, énekes"
+  },
+  {
+    "code": 2725,
+    "title": "Rendező, operatőr",
+    "label": "2725 Rendező, operatőr"
+  },
+  {
+    "code": 2726,
+    "title": "Színész, bábművész",
+    "label": "2726 Színész, bábművész"
+  },
+  {
+    "code": 2727,
+    "title": "Táncművész, koreográfús",
+    "label": "2727 Táncművész, koreográfús"
+  },
+  {
+    "code": 2728,
+    "title": "Cirkuszi- és hasonló előadóművész",
+    "label": "2728 Cirkuszi- és hasonló előadóművész"
+  },
+  {
+    "code": 2729,
+    "title": "Egyéb alkotó- és előadó-művészi foglalkozású (felsőfokú képzettséghez",
+    "label": "2729 Egyéb alkotó- és előadó-művészi foglalkozású (felsőfokú képzettséghez"
+  },
+  {
+    "code": 2730,
+    "title": "Pap (lelkész), egyházi foglalkozású",
+    "label": "2730 Pap (lelkész), egyházi foglalkozású"
+  },
+  {
+    "code": 2910,
+    "title": "Egyéb magasan képzett ügyintéző",
+    "label": "2910 Egyéb magasan képzett ügyintéző"
+  },
+  {
+    "code": 3171,
+    "title": "Tengeri és belvízi hajóparancsnok, fedélzeti tiszt",
+    "label": "3171 Tengeri és belvízi hajóparancsnok, fedélzeti tiszt"
+  },
+  {
+    "code": 3172,
+    "title": "Légij ármű-vezető, haj ózómémök",
+    "label": "3172 Légij ármű-vezető, haj ózómémök"
+  },
+  {
+    "code": 3173,
+    "title": "Légiforgalmi irányító",
+    "label": "3173 Légiforgalmi irányító"
+  },
+  {
+    "code": 3174,
+    "title": "Légiforgalmi irányítástechnikai berendezések üzemeltetője",
+    "label": "3174 Légiforgalmi irányítástechnikai berendezések üzemeltetője"
+  },
+  {
+    "code": 3190,
+    "title": "Egyéb műszaki foglalkozású",
+    "label": "3190 Egyéb műszaki foglalkozású"
+  },
+  {
+    "code": 3211,
+    "title": "Bányászati szakmai irányító, felügyelő",
+    "label": "3211 Bányászati szakmai irányító, felügyelő"
+  },
+  {
+    "code": 3212,
+    "title": "Feldolgozóipari szakmai irányító, felügyelő",
+    "label": "3212 Feldolgozóipari szakmai irányító, felügyelő"
+  },
+  {
+    "code": 3213,
+    "title": "Építőipari szakmai irányító, felügyelő",
+    "label": "3213 Építőipari szakmai irányító, felügyelő"
+  },
+  {
+    "code": 3221,
+    "title": "Irodai szakmai irányító, felügyelő",
+    "label": "3221 Irodai szakmai irányító, felügyelő"
+  },
+  {
+    "code": 3222,
+    "title": "Konyhafönök, séf",
+    "label": "3222 Konyhafönök, séf"
+  },
+  {
+    "code": 3311,
+    "title": "Ápoló, szakápoló",
+    "label": "3311 Ápoló, szakápoló"
+  },
+  {
+    "code": 3312,
+    "title": "Szülész(nő)i tevékenység segítője",
+    "label": "3312 Szülész(nő)i tevékenység segítője"
+  },
+  {
+    "code": 3321,
+    "title": "Általános egészségügyi asszisztens",
+    "label": "3321 Általános egészségügyi asszisztens"
+  },
+  {
+    "code": 3322,
+    "title": "Egészségügyi dokumentátor",
+    "label": "3322 Egészségügyi dokumentátor"
+  },
+  {
+    "code": 3323,
+    "title": "Orvosi képalkotó diagnosztikai és terápiás berendezések kezelője",
+    "label": "3323 Orvosi képalkotó diagnosztikai és terápiás berendezések kezelője"
+  },
+  {
+    "code": 3324,
+    "title": "Orvosi laboratóriumi asszisztens",
+    "label": "3324 Orvosi laboratóriumi asszisztens"
+  },
+  {
+    "code": 3325,
+    "title": "Fogászati asszisztens",
+    "label": "3325 Fogászati asszisztens"
+  },
+  {
+    "code": 3326,
+    "title": "Gyógyszertári és gyógyszerellátási asszisztens",
+    "label": "3326 Gyógyszertári és gyógyszerellátási asszisztens"
+  },
+  {
+    "code": 3327,
+    "title": "Alternatív gyógymódok alkalmazásának segítője",
+    "label": "3327 Alternatív gyógymódok alkalmazásának segítője"
+  },
+  {
+    "code": 3331,
+    "title": "Környezet- és foglalkozás-egészségügyi kiegészítő foglalkozású",
+    "label": "3331 Környezet- és foglalkozás-egészségügyi kiegészítő foglalkozású"
+  },
+  {
+    "code": 3332,
+    "title": "Fizioterápiás asszisztens, masszőr",
+    "label": "3332 Fizioterápiás asszisztens, masszőr"
+  },
+  {
+    "code": 3333,
+    "title": "Fogtechnikus",
+    "label": "3333 Fogtechnikus"
+  },
+  {
+    "code": 3334,
+    "title": "Ortopédiai eszközkészítő",
+    "label": "3334 Ortopédiai eszközkészítő"
+  },
+  {
+    "code": 3335,
+    "title": "Látszerész",
+    "label": "3335 Látszerész"
+  },
+  {
+    "code": 3339,
+    "title": "Egyéb, humánegészségügyhöz kapcsolódó foglalkozású",
+    "label": "3339 Egyéb, humánegészségügyhöz kapcsolódó foglalkozású"
+  },
+  {
+    "code": 3341,
+    "title": "Állatorvosi asszisztens",
+    "label": "3341 Állatorvosi asszisztens"
+  },
+  {
+    "code": 3342,
+    "title": "Növényorvosi (növényvédelmi) asszisztens",
+    "label": "3342 Növényorvosi (növényvédelmi) asszisztens"
+  },
+  {
+    "code": 3410,
+    "title": "Oktatási asszisztens",
+    "label": "3410 Oktatási asszisztens"
+  },
+  {
+    "code": 3711,
+    "title": "Segédszínész, statiszta",
+    "label": "3711 Segédszínész, statiszta"
+  },
+  {
+    "code": 3712,
+    "title": "Segédrendező",
+    "label": "3712 Segédrendező"
+  },
+  {
+    "code": 3713,
+    "title": "Fényképész",
+    "label": "3713 Fényképész"
+  },
+  {
+    "code": 3714,
+    "title": "Díszletező, díszítő",
+    "label": "3714 Díszletező, díszítő"
+  },
+  {
+    "code": 3715,
+    "title": "Kiegészítő filmgyártási és színházi foglalkozású",
+    "label": "3715 Kiegészítő filmgyártási és színházi foglalkozású"
+  },
+  {
+    "code": 3716,
+    "title": "Lakberendező, dekoratőr",
+    "label": "3716 Lakberendező, dekoratőr"
+  },
+  {
+    "code": 3717,
+    "title": "Kulturális intézményi szaktechnikus",
+    "label": "3717 Kulturális intézményi szaktechnikus"
+  },
+  {
+    "code": 3719,
+    "title": "Egyéb művészeti és kulturális foglalkozású",
+    "label": "3719 Egyéb művészeti és kulturális foglalkozású"
+  },
+  {
+    "code": 3721,
+    "title": "Sportoló",
+    "label": "3721 Sportoló"
+  },
+  {
+    "code": 3722,
+    "title": "Fitnesz- és rekreációs program irányítója",
+    "label": "3722 Fitnesz- és rekreációs program irányítója"
+  },
+  {
+    "code": 3730,
+    "title": "Egyéb vallási foglalkozású",
+    "label": "3730 Egyéb vallási foglalkozású"
+  },
+  {
+    "code": 3910,
+    "title": "Egyéb ügyintéző",
+    "label": "3910 Egyéb ügyintéző"
+  },
+  {
+    "code": 4111,
+    "title": "Titkár(nő)",
+    "label": "4111 Titkár(nő)"
+  },
+  {
+    "code": 4112,
+    "title": "Általános irodai adminisztrátor",
+    "label": "4112 Általános irodai adminisztrátor"
+  },
+  {
+    "code": 4113,
+    "title": "Gépíró, szövegszerkesztő",
+    "label": "4113 Gépíró, szövegszerkesztő"
+  },
+  {
+    "code": 4114,
+    "title": "Adatrögzítő, kódoló",
+    "label": "4114 Adatrögzítő, kódoló"
+  },
+  {
+    "code": 4121,
+    "title": "Könyvelő (analitikus)",
+    "label": "4121 Könyvelő (analitikus)"
+  },
+  {
+    "code": 4122,
+    "title": "Bérelszámoló",
+    "label": "4122 Bérelszámoló"
+  },
+  {
+    "code": 4123,
+    "title": "Pénzügyi, statisztikai, biztosítási adminisztrátor",
+    "label": "4123 Pénzügyi, statisztikai, biztosítási adminisztrátor"
+  },
+  {
+    "code": 4129,
+    "title": "Egyéb számviteli foglalkozású",
+    "label": "4129 Egyéb számviteli foglalkozású"
+  },
+  {
+    "code": 4131,
+    "title": "Készlet- és anyagnyilvántartó",
+    "label": "4131 Készlet- és anyagnyilvántartó"
+  },
+  {
+    "code": 4132,
+    "title": "Szállítási, szállítmányozási nyilvántartó",
+    "label": "4132 Szállítási, szállítmányozási nyilvántartó"
+  },
+  {
+    "code": 4133,
+    "title": "Könyvtári, levéltári nyilvántartó",
+    "label": "4133 Könyvtári, levéltári nyilvántartó"
+  },
+  {
+    "code": 4134,
+    "title": "Humánpolitikai adminisztrátor",
+    "label": "4134 Humánpolitikai adminisztrátor"
+  },
+  {
+    "code": 4135,
+    "title": "Postai szolgáltató (kézbesítő, válogató)",
+    "label": "4135 Postai szolgáltató (kézbesítő, válogató)"
+  },
+  {
+    "code": 4136,
+    "title": "Iratkezelő, irattáros",
+    "label": "4136 Iratkezelő, irattáros"
+  },
+  {
+    "code": 4190,
+    "title": "Egyéb, máshova nem sorolható irodai, ügyviteli foglalkozású",
+    "label": "4190 Egyéb, máshova nem sorolható irodai, ügyviteli foglalkozású"
+  },
+  {
+    "code": 4211,
+    "title": "Banki pénztáros",
+    "label": "4211 Banki pénztáros"
+  },
+  {
+    "code": 4212,
+    "title": "Szerencsejáték-szervező",
+    "label": "4212 Szerencsejáték-szervező"
+  },
+  {
+    "code": 4213,
+    "title": "Zálogházi ügyintéző és pénzkölcsönző",
+    "label": "4213 Zálogházi ügyintéző és pénzkölcsönző"
+  },
+  {
+    "code": 4221,
+    "title": "Utazásszervező, tanácsadó",
+    "label": "4221 Utazásszervező, tanácsadó"
+  },
+  {
+    "code": 4222,
+    "title": "Recepciós",
+    "label": "4222 Recepciós"
+  },
+  {
+    "code": 4223,
+    "title": "Szállodai recepciós",
+    "label": "4223 Szállodai recepciós"
+  },
+  {
+    "code": 4224,
+    "title": "Ügyfél- (vevő)tájékoztató",
+    "label": "4224 Ügyfél- (vevő)tájékoztató"
+  },
+  {
+    "code": 4225,
+    "title": "Ügyfélszolgálati központ tájékoztatója",
+    "label": "4225 Ügyfélszolgálati központ tájékoztatója"
+  },
+  {
+    "code": 4226,
+    "title": "Lakossági kérdező, összeíró",
+    "label": "4226 Lakossági kérdező, összeíró"
+  },
+  {
+    "code": 4227,
+    "title": "Postai ügyfélkapcsolati foglalkozású",
+    "label": "4227 Postai ügyfélkapcsolati foglalkozású"
+  },
+  {
+    "code": 4229,
+    "title": "Egyéb ügyfélkapcsolati foglalkozású",
+    "label": "4229 Egyéb ügyfélkapcsolati foglalkozású"
+  },
+  {
+    "code": 5111,
+    "title": "Kereskedő",
+    "label": "5111 Kereskedő"
+  },
+  {
+    "code": 5112,
+    "title": "Vezető eladó",
+    "label": "5112 Vezető eladó"
+  },
+  {
+    "code": 5113,
+    "title": "Bolti eladó",
+    "label": "5113 Bolti eladó"
+  },
+  {
+    "code": 5114,
+    "title": "Kölcsönző",
+    "label": "5114 Kölcsönző"
+  },
+  {
+    "code": 5115,
+    "title": "Piaci, utcai árus",
+    "label": "5115 Piaci, utcai árus"
+  },
+  {
+    "code": 5116,
+    "title": "Piaci, utcai étel- és italárus",
+    "label": "5116 Piaci, utcai étel- és italárus"
+  },
+  {
+    "code": 5117,
+    "title": "Bolti pénztáros, jegypénztáros",
+    "label": "5117 Bolti pénztáros, jegypénztáros"
+  },
+  {
+    "code": 5121,
+    "title": "Üzemanyagtöltő állomás kezelőj e",
+    "label": "5121 Üzemanyagtöltő állomás kezelőj e"
+  },
+  {
+    "code": 5122,
+    "title": "Áru- és divatbemutató",
+    "label": "5122 Áru- és divatbemutató"
+  },
+  {
+    "code": 5123,
+    "title": "Telefonos (multimédiás) értékesítési ügynök",
+    "label": "5123 Telefonos (multimédiás) értékesítési ügynök"
+  },
+  {
+    "code": 5129,
+    "title": "Egyéb, máshova nem sorolható kereskedelmi foglalkozású",
+    "label": "5129 Egyéb, máshova nem sorolható kereskedelmi foglalkozású"
+  },
+  {
+    "code": 5131,
+    "title": "Vendéglős",
+    "label": "5131 Vendéglős"
+  },
+  {
+    "code": 5132,
+    "title": "Pincér",
+    "label": "5132 Pincér"
+  },
+  {
+    "code": 5133,
+    "title": "Pultos",
+    "label": "5133 Pultos"
+  },
+  {
+    "code": 5134,
+    "title": "Szakács",
+    "label": "5134 Szakács"
+  },
+  {
+    "code": 5135,
+    "title": "Cukrász",
+    "label": "5135 Cukrász"
+  },
+  {
+    "code": 5211,
+    "title": "Fodrász",
+    "label": "5211 Fodrász"
+  },
+  {
+    "code": 5212,
+    "title": "Kozmetikus",
+    "label": "5212 Kozmetikus"
+  },
+  {
+    "code": 5213,
+    "title": "Manikűrös, pedikűrös",
+    "label": "5213 Manikűrös, pedikűrös"
+  },
+  {
+    "code": 5219,
+    "title": "Egyéb személyi szolgáltatási foglalkozású",
+    "label": "5219 Egyéb személyi szolgáltatási foglalkozású"
+  },
+  {
+    "code": 5221,
+    "title": "Gyermekfelügyelő, dajka",
+    "label": "5221 Gyermekfelügyelő, dajka"
+  },
+  {
+    "code": 5222,
+    "title": "Segédápoló, műtőssegéd",
+    "label": "5222 Segédápoló, műtőssegéd"
+  },
+  {
+    "code": 5223,
+    "title": "Házi gondozó",
+    "label": "5223 Házi gondozó"
+  },
+  {
+    "code": 5229,
+    "title": "Egyéb személygondozási foglalkozású",
+    "label": "5229 Egyéb személygondozási foglalkozású"
+  },
+  {
+    "code": 5231,
+    "title": "Kalauz, menetjegyellenőr",
+    "label": "5231 Kalauz, menetjegyellenőr"
+  },
+  {
+    "code": 5232,
+    "title": "Utaskísérő (repülőn, hajón)",
+    "label": "5232 Utaskísérő (repülőn, hajón)"
+  },
+  {
+    "code": 5233,
+    "title": "Idegenvezető",
+    "label": "5233 Idegenvezető"
+  },
+  {
+    "code": 5241,
+    "title": "V ezető takarító",
+    "label": "5241 V ezető takarító"
+  },
+  {
+    "code": 5242,
+    "title": "Házvezető",
+    "label": "5242 Házvezető"
+  },
+  {
+    "code": 5243,
+    "title": "Épületgondnok",
+    "label": "5243 Épületgondnok"
+  },
+  {
+    "code": 5251,
+    "title": "Rendőr",
+    "label": "5251 Rendőr"
+  },
+  {
+    "code": 5252,
+    "title": "Tűzoltó",
+    "label": "5252 Tűzoltó"
+  },
+  {
+    "code": 5253,
+    "title": "Büntetés-végrehajtási őr",
+    "label": "5253 Büntetés-végrehajtási őr"
+  },
+  {
+    "code": 5254,
+    "title": "Vagyonőr, testőr",
+    "label": "5254 Vagyonőr, testőr"
+  },
+  {
+    "code": 5255,
+    "title": "Természetvédelmi őr",
+    "label": "5255 Természetvédelmi őr"
+  },
+  {
+    "code": 5256,
+    "title": "Közterület-felügyelő",
+    "label": "5256 Közterület-felügyelő"
+  },
+  {
+    "code": 5259,
+    "title": "Egyéb személy- és vagyonvédelmi foglalkozású",
+    "label": "5259 Egyéb személy- és vagyonvédelmi foglalkozású"
+  },
+  {
+    "code": 5291,
+    "title": "Járművezető-oktató",
+    "label": "5291 Járművezető-oktató"
+  },
+  {
+    "code": 5292,
+    "title": "Hobbiállat-gondozó, -kozmetikus",
+    "label": "5292 Hobbiállat-gondozó, -kozmetikus"
+  },
+  {
+    "code": 5293,
+    "title": "Temetkezési foglalkozású",
+    "label": "5293 Temetkezési foglalkozású"
+  },
+  {
+    "code": 5299,
+    "title": "Egyéb, máshova nem sorolható szolgáltatási foglalkozású",
+    "label": "5299 Egyéb, máshova nem sorolható szolgáltatási foglalkozású"
+  },
+  {
+    "code": 6111,
+    "title": "Szántóföldinövény ^-termesztő",
+    "label": "6111 Szántóföldinövény ^-termesztő"
+  },
+  {
+    "code": 6112,
+    "title": "Bionövény-termesztő",
+    "label": "6112 Bionövény-termesztő"
+  },
+  {
+    "code": 6113,
+    "title": "Zöldségtermesztő",
+    "label": "6113 Zöldségtermesztő"
+  },
+  {
+    "code": 6114,
+    "title": "Szőlő-, gyümölcstermesztő",
+    "label": "6114 Szőlő-, gyümölcstermesztő"
+  },
+  {
+    "code": 6115,
+    "title": "Dísznövény-, virág- és faiskolai kertész, csemetenevelő",
+    "label": "6115 Dísznövény-, virág- és faiskolai kertész, csemetenevelő"
+  },
+  {
+    "code": 6116,
+    "title": "Gyógynövénytermesztő",
+    "label": "6116 Gyógynövénytermesztő"
+  },
+  {
+    "code": 6119,
+    "title": "Egyéb növénytermesztési foglalkozású",
+    "label": "6119 Egyéb növénytermesztési foglalkozású"
+  },
+  {
+    "code": 6121,
+    "title": "Szarvasmarha-, ló-, sertés-, juhtartó és -tenyésztő",
+    "label": "6121 Szarvasmarha-, ló-, sertés-, juhtartó és -tenyésztő"
+  },
+  {
+    "code": 6122,
+    "title": "Baromfitartó és-tenyésztő",
+    "label": "6122 Baromfitartó és-tenyésztő"
+  },
+  {
+    "code": 6123,
+    "title": "Méhész",
+    "label": "6123 Méhész"
+  },
+  {
+    "code": 6124,
+    "title": "Kisállattartó és -tenyésztő",
+    "label": "6124 Kisállattartó és -tenyésztő"
+  },
+  {
+    "code": 6130,
+    "title": "Vegyes profilú gazdálkodó",
+    "label": "6130 Vegyes profilú gazdálkodó"
+  },
+  {
+    "code": 6211,
+    "title": "Erdészeti foglalkozású",
+    "label": "6211 Erdészeti foglalkozású"
+  },
+  {
+    "code": 6212,
+    "title": "Fakitermelő (favágó)",
+    "label": "6212 Fakitermelő (favágó)"
+  },
+  {
+    "code": 6220,
+    "title": "Vadgazdálkodási foglalkozású",
+    "label": "6220 Vadgazdálkodási foglalkozású"
+  },
+  {
+    "code": 6230,
+    "title": "Halászati foglalkozású",
+    "label": "6230 Halászati foglalkozású"
+  },
+  {
+    "code": 7111,
+    "title": "Húsfeldolgozó",
+    "label": "7111 Húsfeldolgozó"
+  },
+  {
+    "code": 7112,
+    "title": "Gyümölcs- és zöldségfeldolgozó, -tartósító",
+    "label": "7112 Gyümölcs- és zöldségfeldolgozó, -tartósító"
+  },
+  {
+    "code": 7113,
+    "title": "Tejfeldolgozó, tejtermékgyártó",
+    "label": "7113 Tejfeldolgozó, tejtermékgyártó"
+  },
+  {
+    "code": 7114,
+    "title": "Pék, édesiparitermék-gyártó",
+    "label": "7114 Pék, édesiparitermék-gyártó"
+  },
+  {
+    "code": 7115,
+    "title": "Borász és egyéb szeszesital-gyártó, szikvízkészítő",
+    "label": "7115 Borász és egyéb szeszesital-gyártó, szikvízkészítő"
+  },
+  {
+    "code": 7211,
+    "title": "Szabásminta-készítő",
+    "label": "7211 Szabásminta-készítő"
+  },
+  {
+    "code": 7212,
+    "title": "Szabó, varró",
+    "label": "7212 Szabó, varró"
+  },
+  {
+    "code": 7213,
+    "title": "Kalapos, kesztyűs",
+    "label": "7213 Kalapos, kesztyűs"
+  },
+  {
+    "code": 7214,
+    "title": "Szűcs, szőrmefestő",
+    "label": "7214 Szűcs, szőrmefestő"
+  },
+  {
+    "code": 7215,
+    "title": "Tímár",
+    "label": "7215 Tímár"
+  },
+  {
+    "code": 7216,
+    "title": "Bőrdíszműves, bőröndös, bőrtermékkészítő, -javító",
+    "label": "7216 Bőrdíszműves, bőröndös, bőrtermékkészítő, -javító"
+  },
+  {
+    "code": 7217,
+    "title": "Cipész, cipőkészítő,-javító",
+    "label": "7217 Cipész, cipőkészítő,-javító"
+  },
+  {
+    "code": 7221,
+    "title": "F amegmunkáló",
+    "label": "7221 F amegmunkáló"
+  },
+  {
+    "code": 7222,
+    "title": "Faesztergályos",
+    "label": "7222 Faesztergályos"
+  },
+  {
+    "code": 7223,
+    "title": "Bútorasztalos",
+    "label": "7223 Bútorasztalos"
+  },
+  {
+    "code": 7224,
+    "title": "Kárpitos",
+    "label": "7224 Kárpitos"
+  },
+  {
+    "code": 7225,
+    "title": "Kádár, bognár",
+    "label": "7225 Kádár, bognár"
+  },
+  {
+    "code": 7231,
+    "title": "Nyomdai előkészítő",
+    "label": "7231 Nyomdai előkészítő"
+  },
+  {
+    "code": 7232,
+    "title": "Nyomdász, nyomdai gépmester",
+    "label": "7232 Nyomdász, nyomdai gépmester"
+  },
+  {
+    "code": 7233,
+    "title": "Könyvkötő",
+    "label": "7233 Könyvkötő"
+  },
+  {
+    "code": 7310,
+    "title": "Fémöntőminta-készítő",
+    "label": "7310 Fémöntőminta-készítő"
+  },
+  {
+    "code": 7321,
+    "title": "Lakatos",
+    "label": "7321 Lakatos"
+  },
+  {
+    "code": 7322,
+    "title": "Szerszámkészítő",
+    "label": "7322 Szerszámkészítő"
+  },
+  {
+    "code": 7323,
+    "title": "Forgácsoló",
+    "label": "7323 Forgácsoló"
+  },
+  {
+    "code": 7324,
+    "title": "Fémcsiszoló, köszörűs, szerszámköszörűs",
+    "label": "7324 Fémcsiszoló, köszörűs, szerszámköszörűs"
+  },
+  {
+    "code": 7325,
+    "title": "Hegesztő, lángvágó",
+    "label": "7325 Hegesztő, lángvágó"
+  },
+  {
+    "code": 7326,
+    "title": "Kovács",
+    "label": "7326 Kovács"
+  },
+  {
+    "code": 7327,
+    "title": "Festékszóró, fényező",
+    "label": "7327 Festékszóró, fényező"
+  },
+  {
+    "code": 7328,
+    "title": "Fém- és egyéb tartószerkezet-szerelő",
+    "label": "7328 Fém- és egyéb tartószerkezet-szerelő"
+  },
+  {
+    "code": 7331,
+    "title": "Gépjármű- és motorkarbantartó, -javító",
+    "label": "7331 Gépjármű- és motorkarbantartó, -javító"
+  },
+  {
+    "code": 7332,
+    "title": "Repülőgépmotor-karbantartó, -javító",
+    "label": "7332 Repülőgépmotor-karbantartó, -javító"
+  },
+  {
+    "code": 7333,
+    "title": "Mezőgazdasági és ipari gép (motor) karbantartója, javítója",
+    "label": "7333 Mezőgazdasági és ipari gép (motor) karbantartója, javítója"
+  },
+  {
+    "code": 7334,
+    "title": "Mechanikaigép-karbantartó, -javító (műszerész)",
+    "label": "7334 Mechanikaigép-karbantartó, -javító (műszerész)"
+  },
+  {
+    "code": 7335,
+    "title": "Kerékpár-karbantartó, -javító",
+    "label": "7335 Kerékpár-karbantartó, -javító"
+  },
+  {
+    "code": 7341,
+    "title": "Villamos gépek és készülékek műszerésze, javítója",
+    "label": "7341 Villamos gépek és készülékek műszerésze, javítója"
+  },
+  {
+    "code": 7342,
+    "title": "Informatikai és telekommunikációs berendezések műszerésze, javítója",
+    "label": "7342 Informatikai és telekommunikációs berendezések műszerésze, javítója"
+  },
+  {
+    "code": 7343,
+    "title": "Elektromoshálózat-szerelő, -javító",
+    "label": "7343 Elektromoshálózat-szerelő, -javító"
+  },
+  {
+    "code": 7521,
+    "title": "Vezeték- és csőhálózat-szerelő (víz, gáz, fíítés)",
+    "label": "7521 Vezeték- és csőhálózat-szerelő (víz, gáz, fíítés)"
+  },
+  {
+    "code": 7522,
+    "title": "Szellőző-, hűtő- és klimatizálóberendezés-szerelő",
+    "label": "7522 Szellőző-, hűtő- és klimatizálóberendezés-szerelő"
+  },
+  {
+    "code": 7523,
+    "title": "Felvonószerelő",
+    "label": "7523 Felvonószerelő"
+  },
+  {
+    "code": 7524,
+    "title": "Épületvillamossági szerelő, villanyszerelő",
+    "label": "7524 Épületvillamossági szerelő, villanyszerelő"
+  },
+  {
+    "code": 7529,
+    "title": "Egyéb építési, szerelési foglalkozású",
+    "label": "7529 Egyéb építési, szerelési foglalkozású"
+  },
+  {
+    "code": 7531,
+    "title": "Szigetelő",
+    "label": "7531 Szigetelő"
+  },
+  {
+    "code": 7532,
+    "title": "Tetőfedő",
+    "label": "7532 Tetőfedő"
+  },
+  {
+    "code": 7533,
+    "title": "Épület-, építménybádogos",
+    "label": "7533 Épület-, építménybádogos"
+  },
+  {
+    "code": 7534,
+    "title": "Burkoló",
+    "label": "7534 Burkoló"
+  },
+  {
+    "code": 7535,
+    "title": "Festő és mázoló",
+    "label": "7535 Festő és mázoló"
+  },
+  {
+    "code": 7536,
+    "title": "Kőfaragó, műköves",
+    "label": "7536 Kőfaragó, műköves"
+  },
+  {
+    "code": 7537,
+    "title": "Kályha- és kandallóépítő",
+    "label": "7537 Kályha- és kandallóépítő"
+  },
+  {
+    "code": 7538,
+    "title": "Üvegező",
+    "label": "7538 Üvegező"
+  },
+  {
+    "code": 7539,
+    "title": "Egyéb építési szakipari foglalkozású",
+    "label": "7539 Egyéb építési szakipari foglalkozású"
+  },
+  {
+    "code": 7911,
+    "title": "Ipari búvár",
+    "label": "7911 Ipari búvár"
+  },
+  {
+    "code": 7912,
+    "title": "Ipari alpinista",
+    "label": "7912 Ipari alpinista"
+  },
+  {
+    "code": 7913,
+    "title": "Robbantómester",
+    "label": "7913 Robbantómester"
+  },
+  {
+    "code": 7914,
+    "title": "Kártevőirtó, gyomirtó",
+    "label": "7914 Kártevőirtó, gyomirtó"
+  },
+  {
+    "code": 7915,
+    "title": "Kéményseprő, épületszerkezet-tisztító",
+    "label": "7915 Kéményseprő, épületszerkezet-tisztító"
+  },
+  {
+    "code": 7919,
+    "title": "Egyéb, máshova nem sorolható ipari és építőipari foglalkozású",
+    "label": "7919 Egyéb, máshova nem sorolható ipari és építőipari foglalkozású"
+  },
+  {
+    "code": 8111,
+    "title": "Élelmiszer-, italgyártó gép kezelője",
+    "label": "8111 Élelmiszer-, italgyártó gép kezelője"
+  },
+  {
+    "code": 8112,
+    "title": "Dohánygyártó gép kezelőj e",
+    "label": "8112 Dohánygyártó gép kezelőj e"
+  },
+  {
+    "code": 8121,
+    "title": "Textilipari gép kezelője és gyártósor mellett dolgozó",
+    "label": "8121 Textilipari gép kezelője és gyártósor mellett dolgozó"
+  },
+  {
+    "code": 8122,
+    "title": "Ruházati gép kezelője és gyártósor mellett dolgozó",
+    "label": "8122 Ruházati gép kezelője és gyártósor mellett dolgozó"
+  },
+  {
+    "code": 8123,
+    "title": "Bőrkikészítő és -feldolgozó gép kezelője és gyártósor mellett dolgozó",
+    "label": "8123 Bőrkikészítő és -feldolgozó gép kezelője és gyártósor mellett dolgozó"
+  },
+  {
+    "code": 8124,
+    "title": "Cipőgyártó gép kezelője és gyártósor mellett dolgozó",
+    "label": "8124 Cipőgyártó gép kezelője és gyártósor mellett dolgozó"
+  },
+  {
+    "code": 8125,
+    "title": "Fafeldolgozó gép kezelője és gyártósor mellett dolgozó",
+    "label": "8125 Fafeldolgozó gép kezelője és gyártósor mellett dolgozó"
+  },
+  {
+    "code": 8126,
+    "title": "Papír- és cellulóztermék-gyártó gép kezelője és gyártósor mellett dolgozó",
+    "label": "8126 Papír- és cellulóztermék-gyártó gép kezelője és gyártósor mellett dolgozó"
+  },
+  {
+    "code": 8131,
+    "title": "Kőolaj - és földgázfeldolgozó gép kezelőj e",
+    "label": "8131 Kőolaj - és földgázfeldolgozó gép kezelőj e"
+  },
+  {
+    "code": 8132,
+    "title": "Vegyi alapanyagot és terméket gyártó gép kezelője",
+    "label": "8132 Vegyi alapanyagot és terméket gyártó gép kezelője"
+  },
+  {
+    "code": 8133,
+    "title": "Gyógyszergyártó gép kezelője",
+    "label": "8133 Gyógyszergyártó gép kezelője"
+  },
+  {
+    "code": 8134,
+    "title": "Műtrágya- és növényvédőszer-gyártó gép kezelője",
+    "label": "8134 Műtrágya- és növényvédőszer-gyártó gép kezelője"
+  },
+  {
+    "code": 8135,
+    "title": "Műanyagtermék-gyártó gép kezelője",
+    "label": "8135 Műanyagtermék-gyártó gép kezelője"
+  },
+  {
+    "code": 8136,
+    "title": "Gumitermékgyártó gép kezelőj e",
+    "label": "8136 Gumitermékgyártó gép kezelőj e"
+  },
+  {
+    "code": 8137,
+    "title": "Fotó-és mozgófilmlaboráns",
+    "label": "8137 Fotó-és mozgófilmlaboráns"
+  },
+  {
+    "code": 8141,
+    "title": "Kerámiaipari terméket gyártó gép kezelőj e",
+    "label": "8141 Kerámiaipari terméket gyártó gép kezelőj e"
+  },
+  {
+    "code": 8142,
+    "title": "Üveget és üvegterméket gyártó gép kezelője",
+    "label": "8142 Üveget és üvegterméket gyártó gép kezelője"
+  },
+  {
+    "code": 8143,
+    "title": "Cement-, kő- és egyéb ásványianyag-feldolgozó gép kezelője",
+    "label": "8143 Cement-, kő- és egyéb ásványianyag-feldolgozó gép kezelője"
+  },
+  {
+    "code": 8144,
+    "title": "Papíripari alapanyagot gyártó gép kezelője",
+    "label": "8144 Papíripari alapanyagot gyártó gép kezelője"
+  },
+  {
+    "code": 8151,
+    "title": "Fémfeldolgozó gép kezelője",
+    "label": "8151 Fémfeldolgozó gép kezelője"
+  },
+  {
+    "code": 8152,
+    "title": "Fémmegmunkáló, felületkezelő gép kezelője",
+    "label": "8152 Fémmegmunkáló, felületkezelő gép kezelője"
+  },
+  {
+    "code": 8190,
+    "title": "Egyéb, máshova nem sorolható feldolgozóipari gép kezelője",
+    "label": "8190 Egyéb, máshova nem sorolható feldolgozóipari gép kezelője"
+  },
+  {
+    "code": 8211,
+    "title": "Mechanikaigép-összeszerelő",
+    "label": "8211 Mechanikaigép-összeszerelő"
+  },
+  {
+    "code": 8212,
+    "title": "Villamosberendezés-összeszerelő",
+    "label": "8212 Villamosberendezés-összeszerelő"
+  },
+  {
+    "code": 8219,
+    "title": "Egyéb termék-összeszerelő",
+    "label": "8219 Egyéb termék-összeszerelő"
+  },
+  {
+    "code": 8311,
+    "title": "Szilárdásvány-kitermelő gép kezelője (szén, kő)",
+    "label": "8311 Szilárdásvány-kitermelő gép kezelője (szén, kő)"
+  },
+  {
+    "code": 8312,
+    "title": "Kútfúró, mélyfúró gép kezelője (kőolaj, földgáz, víz)",
+    "label": "8312 Kútfúró, mélyfúró gép kezelője (kőolaj, földgáz, víz)"
+  },
+  {
+    "code": 8321,
+    "title": "Energetikai gép kezelője",
+    "label": "8321 Energetikai gép kezelője"
+  },
+  {
+    "code": 8322,
+    "title": "Vízgazdálkodási gép kezelője",
+    "label": "8322 Vízgazdálkodási gép kezelője"
+  },
+  {
+    "code": 8323,
+    "title": "Kazángépkezelő",
+    "label": "8323 Kazángépkezelő"
+  },
+  {
+    "code": 8324,
+    "title": "Sugármentesítő gép, berendezés kezelője",
+    "label": "8324 Sugármentesítő gép, berendezés kezelője"
+  },
+  {
+    "code": 8325,
+    "title": "Csomagoló-, palackozó- és címkézőgép kezelője",
+    "label": "8325 Csomagoló-, palackozó- és címkézőgép kezelője"
+  },
+  {
+    "code": 8326,
+    "title": "Mozigépész, vetítőgépész",
+    "label": "8326 Mozigépész, vetítőgépész"
+  },
+  {
+    "code": 8327,
+    "title": "Mosodai gép kezelője",
+    "label": "8327 Mosodai gép kezelője"
+  },
+  {
+    "code": 8329,
+    "title": "Egyéb, máshova nem sorolható, helyhez kötött gép kezelője",
+    "label": "8329 Egyéb, máshova nem sorolható, helyhez kötött gép kezelője"
+  },
+  {
+    "code": 8411,
+    "title": "Mozdonyvezető",
+    "label": "8411 Mozdonyvezető"
+  },
+  {
+    "code": 8412,
+    "title": "Vasútijármű-vezetéshez kapcsolódó foglalkozású",
+    "label": "8412 Vasútijármű-vezetéshez kapcsolódó foglalkozású"
+  },
+  {
+    "code": 8413,
+    "title": "Villamosvezető",
+    "label": "8413 Villamosvezető"
+  },
+  {
+    "code": 8414,
+    "title": "Metróvezető",
+    "label": "8414 Metróvezető"
+  },
+  {
+    "code": 8415,
+    "title": "Trolibuszvezető",
+    "label": "8415 Trolibuszvezető"
+  },
+  {
+    "code": 8416,
+    "title": "Személygépkocsi-vezető",
+    "label": "8416 Személygépkocsi-vezető"
+  },
+  {
+    "code": 8417,
+    "title": "Tehergépkocsi-vezető, kamionsofőr",
+    "label": "8417 Tehergépkocsi-vezető, kamionsofőr"
+  },
+  {
+    "code": 8418,
+    "title": "Autóbuszvezető",
+    "label": "8418 Autóbuszvezető"
+  },
+  {
+    "code": 8419,
+    "title": "Egyéb j árművezető és kapcsolódó foglalkozású",
+    "label": "8419 Egyéb j árművezető és kapcsolódó foglalkozású"
+  },
+  {
+    "code": 8421,
+    "title": "Mezőgazdasági, erdőgazdasági, növényvédő gép kezelője",
+    "label": "8421 Mezőgazdasági, erdőgazdasági, növényvédő gép kezelője"
+  },
+  {
+    "code": 8422,
+    "title": "Földmunkagép és hasonló könnyű- és nehézgép kezelője",
+    "label": "8422 Földmunkagép és hasonló könnyű- és nehézgép kezelője"
+  },
+  {
+    "code": 8423,
+    "title": "Köztisztasági, településtisztasági gép kezelője",
+    "label": "8423 Köztisztasági, településtisztasági gép kezelője"
+  },
+  {
+    "code": 8424,
+    "title": "Daru, felvonó és hasonló anyagmozgató gép kezelője",
+    "label": "8424 Daru, felvonó és hasonló anyagmozgató gép kezelője"
+  },
+  {
+    "code": 8425,
+    "title": "Targoncavezető",
+    "label": "8425 Targoncavezető"
+  },
+  {
+    "code": 8430,
+    "title": "Hajószemélyzet, kormányos, matróz",
+    "label": "8430 Hajószemélyzet, kormányos, matróz"
+  },
+  {
+    "code": 9321,
+    "title": "Kubikos",
+    "label": "9321 Kubikos"
+  },
+  {
+    "code": 9329,
+    "title": "Egyéb egyszerű építőipari foglalkozású",
+    "label": "9329 Egyéb egyszerű építőipari foglalkozású"
+  },
+  {
+    "code": 9331,
+    "title": "Egyszerű mezőgazdasági foglalkozású",
+    "label": "9331 Egyszerű mezőgazdasági foglalkozású"
+  },
+  {
+    "code": 9332,
+    "title": "Egyszerű erdészeti, vadászati és halászati foglalkozású",
+    "label": "9332 Egyszerű erdészeti, vadászati és halászati foglalkozású"
+  }
+]
